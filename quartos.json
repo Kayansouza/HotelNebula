@@ -1,0 +1,47 @@
+[
+  {
+    "numero": "101",
+    "andar": 1,
+    "tipo": "economico",
+    "capacidade": 2,
+    "preco_diaria": 120,
+    "status": "disponivel",
+    "comodidades": ["wifi", "tv", "frigobar"]
+  },
+  {
+    "numero": "102",
+    "andar": 1,
+    "tipo": "economico",
+    "capacidade": 1,
+    "preco_diaria": 100,
+    "status": "ocupado",
+    "comodidades": ["wifi", "tv"]
+  },
+  {
+    "numero": "201",
+    "andar": 2,
+    "tipo": "suite",
+    "capacidade": 2,
+    "preco_diaria": 200,
+    "status": "disponivel",
+    "comodidades": ["wifi", "tv", "frigobar", "banheira"]
+  },
+  {
+    "numero": "301",
+    "andar": 3,
+    "tipo": "executivo",
+    "capacidade": 2,
+    "preco_diaria": 250,
+    "status": "manutencao",
+    "comodidades": ["wifi", "tv", "ar-condicionado", "cafeteira"]
+  },
+  {
+    "numero": "302",
+    "andar": 3,
+    "tipo": "executivo",
+    "capacidade": 4,
+    "preco_diaria": 300,
+    "status": "disponivel",
+    "comodidades": ["wifi", "tv", "ar-condicionado", "frigobar"]
+  }
+]
